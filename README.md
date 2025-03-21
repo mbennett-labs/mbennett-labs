@@ -34,7 +34,7 @@ Course projects that demonstrate my academic learning:
 
 - [matrade-project](https://github.com/mbennett-labs/matrade-project) - Collaborative team project from my final capstone course (CMSC 495)
 - [upgrade-project](https://github.com/mbennett-labs/upgrade-project) - Software upgrade planning and implementation project
-- [CMSCR495](https://github.com/mbennett-labs/CMSCR495) - Computer Science capstone course repository
+- [CMSC495](https://github.com/mbennett-labs/CMSCR495) - Computer Science capstone course repository
 
 ### ⛓️ Blockchain Projects
 Repositories focused on blockchain technology, crypto, and Web3:
