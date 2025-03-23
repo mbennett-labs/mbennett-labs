@@ -23,7 +23,7 @@ This repository serves as a guide to navigate my GitHub projects. My repositorie
 ### 🛠️ Original Projects
 Projects I've built from scratch to demonstrate my skills and learning:
 
-- [michael-bennett-dev](https://github.com/mbennett-labs/michael-bennett-dev) - Personal portfolio website
+- [michael-bennett-portfolio](https://github.com/mbennett-labs/michael-bennett-portfolio) - Personal portfolio website [(Live Site)](https://glittery-cupcake-d10a1a.netlify.app)
 - [SDEV-300-7380](https://github.com/mbennett-labs/SDEV-300-7380) - Python code collections from my security coursework
 - [swarm-agents](https://github.com/mbennett-labs/swarm-agents) - Explorations in AI swarm intelligence
 - [py-cs-me](https://github.com/mbennett-labs/py-cs-me) - Personal Python code snippets and exercises
