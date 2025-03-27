@@ -23,67 +23,75 @@ This repository serves as a guide to navigate my GitHub projects. My repositorie
 ### 🛠️ Original Projects
 Projects I've built from scratch to demonstrate my skills and learning:
 
-- [michael-bennett-portfolio](https://github.com/mbennett-labs/michael-bennett-portfolio) - Personal portfolio website [(Live Site)](https://glittery-cupcake-d10a1a.netlify.app)
+- [secure-blog-platform](https://github.com/mbennett-labs/secure-blog-platform) - Secure blogging platform with modern authentication methods
+- [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts) - Collection of Ethereum smart contracts with security best practices
+- [matrade-project](https://github.com/mbennett-labs/matrade-project) - Collaborative team project from my final capstone course (CMSC 495)
+- [academic-portfolio](https://github.com/mbennett-labs/academic-portfolio) - Comprehensive collection of my academic work and projects
 - [SDEV-300-7380](https://github.com/mbennett-labs/SDEV-300-7380) - Python code collections from my security coursework
-- [swarm-agents](https://github.com/mbennett-labs/swarm-agents) - Explorations in AI swarm intelligence
-- [py-cs-me](https://github.com/mbennett-labs/py-cs-me) - Personal Python code snippets and exercises
-- [1canfreekit](https://github.com/mbennett-labs/1canfreekit) - First GitHub repository showing my learning progression
 
 ### 🎓 Academic Projects
 Course projects that demonstrate my academic learning:
 
 - [matrade-project](https://github.com/mbennett-labs/matrade-project) - Collaborative team project from my final capstone course (CMSC 495)
 - [upgrade-project](https://github.com/mbennett-labs/upgrade-project) - Software upgrade planning and implementation project
-- [CMSC495](https://github.com/mbennett-labs/CMSC495) - Computer Science capstone course repository
+- [academic-portfolio](https://github.com/mbennett-labs/academic-portfolio) - Organized collection of coursework, projects and papers from my degree
 
 ### ⛓️ Blockchain Projects
 Repositories focused on blockchain technology, crypto, and Web3:
 
+- [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts) - Collection of Ethereum smart contracts with security best practices
 - [bitcoin](https://github.com/mbennett-labs/bitcoin) - Exploring core Bitcoin concepts
 - [BitcoinSushi](https://github.com/mbennett-labs/BitcoinSushi) - Bitcoin integration experiments
-- [wemix-node-connect](https://github.com/mbennett-labs/wemix-node-connect) - Blockchain node connectivity tools
 
 ### 🤖 AI & Machine Learning
 Projects exploring artificial intelligence and machine learning:
 
+- [swarm-agents](https://github.com/mbennett-labs/swarm-agents) - Explorations in AI swarm intelligence
 - [morpheus](https://github.com/mbennett-labs/morpheus) - Forked AI agent project with my contributions
-- [digihash](https://github.com/mbennett-labs/digihash) - Digital hash algorithms project
 - [CATProtocol](https://github.com/mbennett-labs/CATProtocol) - Categorical AI protocol exploration
 
-### 🧪 Learning & Experiments
-Repositories where I'm learning new technologies or experimenting:
+### 🔒 Security Focus
+Projects highlighting my cybersecurity expertise:
 
-- [lucky-kitsunaki](https://github.com/mbennett-labs/lucky-kitsunaki) - Experimental project
-- [portfolio](https://github.com/mbennett-labs/portfolio) - Portfolio experiment before creating my main site
-- [Favorites](https://github.com/mbennett-labs/Favorites) - Collection of favorite code snippets and resources
+- [secure-blog-platform](https://github.com/mbennett-labs/secure-blog-platform) - Secure blogging platform with modern authentication
+- [SDEV-300-7380](https://github.com/mbennett-labs/SDEV-300-7380) - Security-focused Python applications
+- [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts) - Smart contracts with security best practices
 
 ## 📚 Skills Showcase
 
 ### Programming Languages
-- Python: [SDEV-300-7380](https://github.com/mbennett-labs/SDEV-300-7380), [py-cs-me](https://github.com/mbennett-labs/py-cs-me)
-- JavaScript: [michael-bennett-dev](https://github.com/mbennett-labs/michael-bennett-dev)
-- HTML/CSS: [py-cs-me](https://github.com/mbennett-labs/py-cs-me) (HTML components)
+- Python: [SDEV-300-7380](https://github.com/mbennett-labs/SDEV-300-7380), [secure-blog-platform](https://github.com/mbennett-labs/secure-blog-platform)
+- JavaScript/TypeScript: [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts), [secure-blog-platform](https://github.com/mbennett-labs/secure-blog-platform)
+- Solidity: [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts)
 
 ### Security Focus
-- Software Security: [SDEV-300-7380](https://github.com/mbennett-labs/SDEV-300-7380)
-- Vulnerability Assessment: [upgrade-project](https://github.com/mbennett-labs/upgrade-project)
+- Authentication & Authorization: [secure-blog-platform](https://github.com/mbennett-labs/secure-blog-platform)
+- Secure Coding Practices: [SDEV-300-7380](https://github.com/mbennett-labs/SDEV-300-7380)
+- Smart Contract Security: [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts)
 
 ### Blockchain & Web3
-- Cryptocurrency: [bitcoin](https://github.com/mbennett-labs/bitcoin), [BitcoinSushi](https://github.com/mbennett-labs/BitcoinSushi)
-- Node Connectivity: [wemix-node-connect](https://github.com/mbennett-labs/wemix-node-connect)
+- Smart Contracts: [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts)
+- Cryptocurrency Integration: [BitcoinSushi](https://github.com/mbennett-labs/BitcoinSushi)
+- Blockchain Applications: [matrade-project](https://github.com/mbennett-labs/matrade-project) (blockchain component)
 
 ### AI & Machine Learning
-- Agent Development: [morpheus](https://github.com/mbennett-labs/morpheus), [swarm-agents](https://github.com/mbennett-labs/swarm-agents)
-- Protocol Research: [CATProtocol](https://github.com/mbennett-labs/CATProtocol)
+- Agent Development: [swarm-agents](https://github.com/mbennett-labs/swarm-agents)
+- AI Integration: [morpheus](https://github.com/mbennett-labs/morpheus) (contributions)
+
+## 🎓 Education & Credentials
+- BS in Software Development & Security - University of Maryland Global Campus (May 2024)
+- Strong focus on cybersecurity, with A grades in 6 of 7 security courses
+- Perfect 4.0 GPA in final two semesters
+- [View detailed academic credentials](https://github.com/mbennett-labs/academic-portfolio/blob/main/education-transcript-md.md)
 
 ## 🌱 My Learning Journey
 I'm currently focused on deepening my knowledge in:
 - Advanced Python for security applications
 - Blockchain development and smart contracts
 - AI agent systems and swarm intelligence
-- Full-stack web development
+- Full-stack web development with modern frameworks
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/michael-bennett-a29a93103/)
-- [HackMD](https://hackmd.io/@xbBf1zpRTXaSATerS04iJg)
-
+- [GitHub](https://github.com/mbennett-labs)
+- [Academic Portfolio](https://github.com/mbennett-labs/academic-portfolio)
