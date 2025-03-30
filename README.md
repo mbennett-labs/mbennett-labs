@@ -27,7 +27,7 @@ Projects I've built from scratch to demonstrate my skills and learning:
 - [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts) - Collection of Ethereum smart contracts with security best practices
 - [matrade-project](https://github.com/mbennett-labs/matrade-project) - Collaborative team project from my final capstone course (CMSC 495)
 - [academic-portfolio](https://github.com/mbennett-labs/academic-portfolio) - Comprehensive collection of my academic work and projects
-- [SDEV-300-7380](https://github.com/mbennett-labs/SDEV-300-7380) - Python code collections from my security coursework
+- [celestia-node-project](https://github.com/mbennett-labs/celestia-node-project) - Resource-optimized Celestia Light Node implementation with custom monitoring dashboard
 
 ### 🎓 Academic Projects
 Course projects that demonstrate my academic learning:
@@ -42,6 +42,7 @@ Repositories focused on blockchain technology, crypto, and Web3:
 - [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts) - Collection of Ethereum smart contracts with security best practices
 - [bitcoin](https://github.com/mbennett-labs/bitcoin) - Exploring core Bitcoin concepts
 - [BitcoinSushi](https://github.com/mbennett-labs/BitcoinSushi) - Bitcoin integration experiments
+- [celestia-node-project](https://github.com/mbennett-labs/celestia-node-project) - Resource-optimized Celestia Light Node implementation with custom monitoring dashboard
 
 ### 🤖 AI & Machine Learning
 Projects exploring artificial intelligence and machine learning:
@@ -61,18 +62,20 @@ Projects highlighting my cybersecurity expertise:
 
 ### Programming Languages
 - Python: [SDEV-300-7380](https://github.com/mbennett-labs/SDEV-300-7380), [secure-blog-platform](https://github.com/mbennett-labs/secure-blog-platform)
-- JavaScript/TypeScript: [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts), [secure-blog-platform](https://github.com/mbennett-labs/secure-blog-platform)
+- JavaScript/TypeScript: [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts), [secure-blog-platform](https://github.com/mbennett-labs/secure-blog-platform), [celestia-node-project](https://github.com/mbennett-labs/celestia-node-project)
 - Solidity: [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts)
 
 ### Security Focus
 - Authentication & Authorization: [secure-blog-platform](https://github.com/mbennett-labs/secure-blog-platform)
 - Secure Coding Practices: [SDEV-300-7380](https://github.com/mbennett-labs/SDEV-300-7380)
 - Smart Contract Security: [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts)
+- Resource Isolation & Management: [celestia-node-project](https://github.com/mbennett-labs/celestia-node-project)
 
 ### Blockchain & Web3
 - Smart Contracts: [ethereum-smart-contracts](https://github.com/mbennett-labs/ethereum-smart-contracts)
 - Cryptocurrency Integration: [BitcoinSushi](https://github.com/mbennett-labs/BitcoinSushi)
 - Blockchain Applications: [matrade-project](https://github.com/mbennett-labs/matrade-project) (blockchain component)
+- Blockchain Node Operations: [celestia-node-project](https://github.com/mbennett-labs/celestia-node-project)
 
 ### AI & Machine Learning
 - Agent Development: [swarm-agents](https://github.com/mbennett-labs/swarm-agents)
