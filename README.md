@@ -1,5 +1,7 @@
 # Michael Bennett | Software Development Portfolio
 
+## 🔗 [View My Portfolio Website](https://mbennett-labs.github.io/)
+
 ## 👨‍💻 About Me
 Software Developer and Security Specialist with a background as an Executive Chef, bringing unique perspectives on system design, operational efficiency, and team leadership to the software development world. Recently graduated with a BS in Software Development & Security from University of Maryland Global Campus (May 2024). 
 
