@@ -1,6 +1,6 @@
 # Michael Bennett | Founder & CEO, Quantum Shield Labs LLC
 
-## 🚀 [View My Professional Portfolio](https://mbennett-labs.github.io/) | 🏢 [Company Website](https://quantumshieldlabs.dev/git-site/)
+## 🚀 [View My Professional Portfolio](https://mbennett-labs.github.io/) | 🏢 [Company Website](https://quantumshieldlabs.dev/)
 
 ## 👨‍💼 About Me
 **Founder & CEO of Quantum Shield Labs LLC** - Building production AI applications and quantum-safe security solutions. Software Developer and Security Specialist with expertise in AI integration, cybersecurity, and blockchain technology. Bringing operational leadership experience and entrepreneurial vision to create practical AI solutions for real-world business problems.
