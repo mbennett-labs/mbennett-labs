@@ -35,7 +35,7 @@
 - **Impact**: Demonstrates practical WebML applications for business productivity
 
 ### 🏢 **Quantum Shield Labs Platform** 
-**[Company Website]([https://quantumshieldlabs.dev/])** - Educational platform and business showcase
+**[Company Website](https://quantumshieldlabs.dev/)** - Educational platform and business showcase
 - **Blog**: [Quantum Security Education](https://quantumshieldlabs.dev/blog/) - Making complex AI and security concepts accessible
 - **Focus**: Bridging technical concepts with business applications
 - **Mission**: Democratizing quantum security knowledge for modern businesses
